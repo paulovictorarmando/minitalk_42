@@ -7,6 +7,7 @@ The client sends a message to the server by encoding each character of the messa
 Each bit of a character is sent as a signal:
 
 SIGUSR1 represents a 0 bit.
+
 SIGUSR2 represents a 1 bit.
 
 ## How to Run the Project
