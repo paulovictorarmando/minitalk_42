@@ -14,7 +14,6 @@ SIGUSR2 represents a 1 bit.
 ```
 git clone https://github.com/your-username/minitalk_42.git
 cd minitalk_42
-
 ```
 ### 2- Compile the project:
 ```
