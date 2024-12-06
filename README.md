@@ -18,7 +18,6 @@ cd minitalk_42
 ### 2- Compile the project:
 ```
 make
-
 ```
 ### 3- Run the server:
 ```
